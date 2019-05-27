@@ -50,5 +50,5 @@ clone the repository
 cd path/to/cloned_folder
 
 ```bash
-  ruby pay_later_service.rb
+  ruby pay_later_service.rb  #to start the cli
   ```
