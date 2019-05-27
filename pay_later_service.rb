@@ -108,7 +108,7 @@ end
 
 user_list = []
 merchant_list = []
-loop do
+while(1) do
   input = gets.chomp
 
   if input == 'exit' || input == 'q' || input == 'quit'
@@ -213,4 +213,3 @@ loop do
     end
   end
 end
-
