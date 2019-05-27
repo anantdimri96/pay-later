@@ -120,7 +120,6 @@ while(1) do
     p "Use the following commands : \n"
     p "\n"
     Person.help_menu
-    p "\n\n"
 
   else
     input = input.split(' ')
